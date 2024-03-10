@@ -1,0 +1,4 @@
+benjaminhayes.testnet
+issabela.testnet
+leenok.testnet
+lucasthomp.testnet

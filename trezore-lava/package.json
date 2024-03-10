@@ -1,0 +1,29 @@
+{
+  "name": "trezor-lava",
+  "version": "1.0.0",
+  "description": "Examples of constructing, signing, and sending transactions to the NEAR blockchain.",
+  "main": "trezore.js",
+  "scripts": {
+    "test": "exit code 1"
+  },
+  "keywords": [
+    "nearprotocol",
+    "blockchain",
+    "transaction"
+  ],
+  "author": "Josh Ford",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "bn": "^1.0.5",
+    "dotenv": "^8.2.0",
+    "js-sha256": "^0.9.0",
+    "near-api-js": "^0.30.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "jest": "^29.7.0",
+    "react-test-renderer": "^18.2.0"
+  }
+}

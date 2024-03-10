@@ -1,0 +1,3 @@
+PrivateKey  : 8qzLuzagj4ZBuSNVbZWEUQ7TGQXchVTBdwF92cHaNzqe
+NodeURL     : https://near-testnet.lava.build/lava-referer-52c0c9a2-db29-4e39-a3da-4f30d95d59b7/
+PublicKey   : 7kfMDkhbAf3QEEiDMYgGa1BBBxZMoGw55TMQJP5WkTkj
